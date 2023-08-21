@@ -1,0 +1,24 @@
+.greetings-animation {
+    position: absolute;
+    top: 30%;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.greetings-para {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.home-button {
+    margin-top: 10px;
+    color: white;
+    background-color: #e50914;
+    font-size: 16px;
+    padding: 10px 30px;
+    border: none;
+    cursor: pointer;
+}

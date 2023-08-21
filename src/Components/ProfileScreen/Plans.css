@@ -1,0 +1,29 @@
+.plans {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 12px;
+    margin: 13px 0px;
+}
+
+.plans-info p {
+    font-size: 12px;
+}
+
+.plans-button_package {
+    color: white;
+    background-color: grey;
+    font-size: 14px;
+    padding: 8px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.plans-button_subscribe {
+    color: white;
+    background-color: #e50914;
+    font-size: 14px;
+    padding: 8px 20px;
+    border: none;
+    cursor: pointer;
+}
